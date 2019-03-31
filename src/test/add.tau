@@ -1,0 +1,13 @@
+
+function add(d){
+    print("add function")
+}
+
+add()
+
+{
+    var ff = "inside a block"
+}
+
+print(ff)
+
